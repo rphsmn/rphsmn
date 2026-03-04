@@ -1,6 +1,6 @@
 # Hi there, I'm Ralph! 👋
 
-### 👨‍💻 IT Intern | Aspiring Python Developer
+### 👨‍💻 IT Intern
 I’m currently an IT Intern at **Cor Logics Solution Inc.,**, where I’m focusing on learning the ropes and being on the ground of the real IT industry. I enjoy learning and taking a shot in everything I know and don't know.
 
 ---
